@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HolaMonterreyApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+23a11eb308ae79c9a2f9933f0cbf11503653b2b1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+82c7a93e3e4fd04c1f59a3ed0fd892e8d8e8aa48")]
 [assembly: System.Reflection.AssemblyProductAttribute("HolaMonterreyApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HolaMonterreyApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
